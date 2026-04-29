@@ -1,1 +1,37 @@
-# Memória
+# 📚 Jogo da Memória
+
+## 📸 Preview
+
+![Preview do projeto]()
+
+Um projeto simples e divertido de **Jogo da Memória** desenvolvido com **HTML, CSS e JavaScript puro**.
+
+O jogador precisa encontrar todos os pares de cartas com emojis de animais.
+
+
+---
+
+🔗 [Acesse o projeto publicado no GitHub Pages]()
+
+---
+
+## 🚀 Funcionalidades
+
+* Embaralhamento automático das cartas
+* Sistema de tentativas e acertos
+* Verificação de pares
+* Bloqueio durante animação de comparação
+* Reinício da partida
+* Interface responsiva e estilizada
+
+---
+
+## 🛠 Tecnologias
+
+* HTML5
+* CSS3
+* JavaScript
+
+
+
+
