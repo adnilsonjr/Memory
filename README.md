@@ -11,7 +11,7 @@ O jogador precisa encontrar todos os pares de cartas com emojis de animais.
 
 ---
 
-🔗 [Acesse o projeto publicado no GitHub Pages]()
+🔗 [Acesse o projeto publicado no GitHub Pages](https://adnilsonjr.github.io/Memory/)
 
 ---
 
