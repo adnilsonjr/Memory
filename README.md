@@ -2,7 +2,7 @@
 
 ## 📸 Preview
 
-![Preview do projeto]()
+![Preview do projeto](./img/preview.png)
 
 Um projeto simples e divertido de **Jogo da Memória** desenvolvido com **HTML, CSS e JavaScript puro**.
 
